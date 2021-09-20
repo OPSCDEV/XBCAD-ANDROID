@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033187653143",
+    "project_id": "xbcad-mobile-app",
+    "storage_bucket": "xbcad-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033187653143:android:69f0288c10e1a1f494ce52",
+        "android_client_info": {
+          "package_name": "com.vcsd.bcadx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033187653143-c8mo05dhjnuua8rjsnhrv7nk13fgoe53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_pXYGWYCOQSj06otr6AzbmzCJezNrsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033187653143-c8mo05dhjnuua8rjsnhrv7nk13fgoe53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
