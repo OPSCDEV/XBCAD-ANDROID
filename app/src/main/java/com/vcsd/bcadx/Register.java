@@ -49,7 +49,7 @@ public class Register extends AppCompatActivity {
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String namee = Name.getText().toString().trim();
+                String name = Name.getText().toString().trim();
                 String phone = String.valueOf(Phone.getText());
                 String email = Email.getText().toString().trim();
                 String password = Password.getText().toString().trim();
